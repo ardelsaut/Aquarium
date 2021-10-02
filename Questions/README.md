@@ -1,6 +1,4 @@
-# Aquarium Domestique
-## Les différentes catégories
- - [Essentiel à Savoir](http://github.com)
- - [Aquarium](http://github.com)
- - [Matériel à acheter](http://github.com)
- - [Questions](http://github.com)
+# Catégories : Questions
+
+- Faut il mettre les plantes avant le rodage, pendant le rodage, apres le rodage?
+- Quels poissons d'eau douce vont bien ensemble?
