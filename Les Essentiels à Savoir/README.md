@@ -28,6 +28,7 @@ dépassement du pic nitrite),
             - pistia
         - racine spider
         - Sol neutre ( sables de Loire ou sables de rivière ) non artificiellement colorés (avoir 5 à 7cm d'epaisseur dans aquarium)
+        - un peu d'engrais
     - Filtre externe débit du filtre doit faire environ 5 à 10 fois le volume de l’aquarium.
         - Placer la canne d’aspiration d’un côté du bac et la canne de rejet de l’eau de l’autre
         - /|\ A partir de 150cm de long, il est préférable d’utiliser deux filtres plutôt qu’un seul
