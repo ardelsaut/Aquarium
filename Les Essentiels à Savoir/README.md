@@ -14,18 +14,18 @@ dépassement du pic nitrite),
     - Toujours laisser le filtre allumer
 
 
-- Pour l'Emplacement : - Loin des points chauds
-                       - Loin du soleil
-                       - Loin des lieus de passage
+- Pour l'Emplacement :
+    - Loin des points chauds
+    - Loin du soleil
+    - Loin des lieus de passage
 
-* Pour le Matériel :
-    ** Cuve façade 1 mètre min ; entre 100L-250L
-    ** Filtre
+- Pour le Matériel :
+    - Cuve façade 1 mètre min ; entre 100L-250L
+    - Filtre
 
 /!\ NE JAMAIS ACHETER DE KIT /!\
 /!\ NE JAMAIS ACHETER DE KIT /!\
 - Pour l'Entretien :
-
     - Par Semaine :
         - Changer 10% de l'eau de l'aquarium
 
