@@ -1,7 +1,7 @@
 # Aquarium Domestique
+-----------------------
 ## Les différentes catégories
 
------------------------
 | Menus Principaux
 | - [Essentiel à Savoir](https://github.com/ardelsaut/Aquarium/tree/main/Les%20Essentiels%20%C3%A0%20Savoir) |
 | - [Aquarium](https://github.com/ardelsaut/Aquarium/tree/main/Aquarium) |

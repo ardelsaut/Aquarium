@@ -13,8 +13,13 @@ dépassement du pic nitrite),
 	-pas changement de 10% d’eau par semaine et un nettoyage mensuel du filtre pendant le rodage
 	-toujours laisser le filtre allumer
 
+- Pour l'Emplacement : - Loin des points chauds
+                       - Loin du soleil
+                       - Loin des lieus de passage
 
-- Pour le matériel : - Cuve façade 1m min ; entre 100L-250L
+
+
+<!-- /!\ NE JAMAIS ACHETER DE KIT -->
+- Pour le Matériel : - Cuve façade 1 mètre min ; entre 100L-250L
                      - Filtre
-
-- Pour l'entretien
+- Pour l'Entretien
