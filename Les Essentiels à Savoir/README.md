@@ -17,9 +17,9 @@ dépassement du pic nitrite),
                        - Loin du soleil
                        - Loin des lieus de passage
 
-- Pour le Matériel :
-    - Cuve façade 1 mètre min ; entre 100L-250L
-    - Filtre
+* Pour le Matériel :
+    ** Cuve façade 1 mètre min ; entre 100L-250L
+    ** Filtre
 
 /!\ NE JAMAIS ACHETER DE KIT /!\
 /!\ NE JAMAIS ACHETER DE KIT /!\
