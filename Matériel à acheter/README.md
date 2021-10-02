@@ -2,6 +2,6 @@
 
 On peut acheter des bacteries pour accélérer le cycle, mais pas conseillé
 - [ ] Bactéries (à priori déconseillé)
-- [ ]
-- [ ]
+- [ ] Cuve
+- [ ] Filtre externe
 - [ ]
