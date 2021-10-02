@@ -10,8 +10,9 @@ L'ajout de poisson doit donc se faire après 5 semaines (2 semaines après le
 dépassement du pic nitrite),
 - Pour le rôdage, il faut donc :
     - Mettre les éléments (cailloux, pompes, )
-    - pas changement de 10% d’eau par semaine et un nettoyage mensuel du filtre pendant le rodage
-    -toujours laisser le filtre allumer
+    - Pas changement de 10% d’eau par semaine et un nettoyage mensuel du filtre pendant le rodage
+    - Toujours laisser le filtre allumer
+
 
 - Pour l'Emplacement : - Loin des points chauds
                        - Loin du soleil
